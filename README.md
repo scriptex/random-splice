@@ -28,13 +28,14 @@ npm i random-splice
 
 ## Usage
 
-import { randomSplice } from 'random-splice';
-
+```
+const randomSplice = require('random-splice');
 const arr = ['Your', 'Awesome', 'Array'];
 
 while (arr.length) {
-console.log(randomSplice(arr));
+	console.log(randomSplice(arr));
 }
+```
 
 ## Notes
 
