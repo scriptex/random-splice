@@ -6,7 +6,7 @@ const randomSplice = arr => {
 	const len = arr.length;
 
 	if (!len) {
-		throw new Error(`No items in the array`);
+		throw new Error('No items in the array');
 	}
 
 	const randomIndex = Math.floor(Math.random() * len);
