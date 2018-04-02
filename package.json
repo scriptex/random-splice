@@ -1,9 +1,10 @@
 {
 	"name": "random-splice",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"description": "Get random element from array when looping",
 	"main": "index.js",
 	"scripts": {
+		"build": "babel src -d dist",
 		"test": "tape test.js"
 	},
 	"repository": {
@@ -23,6 +24,10 @@
 	},
 	"homepage": "https://github.com/scriptex/random-splice#readme",
 	"devDependencies": {
+		"@babel/cli": "^7.0.0-beta.42",
+		"@babel/core": "^7.0.0-beta.42",
+		"@babel/preset-env": "^7.0.0-beta.42",
+		"@babel/preset-stage-2": "^7.0.0-beta.42",
 		"tape": "^4.9.0"
 	}
 }
