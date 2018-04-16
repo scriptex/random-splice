@@ -26,6 +26,14 @@ or
 npm i random-splice
 ```
 
+or
+
+Just download this repository and link the files located in dist folder:
+
+```
+<script src="dist/index.min.js"></script>
+```
+
 ## Usage
 
 ```
@@ -39,6 +47,6 @@ while (arr.length) {
 
 ## Notes
 
-1. This function modifies the original array. This is where its magic comes from
-2. This function accepts only arrays
-3. This function can be used in an ES6 environment
+1.  This function modifies the original array. This is where its magic comes from
+2.  This function accepts only arrays
+3.  This function can be used in an ES6 environment
