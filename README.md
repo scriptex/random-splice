@@ -5,13 +5,17 @@ Get random element from array when looping
 ## Idea
 
 When looping over an array in JavaScript, you sometimes want to get a random item.
+
 One solution is to first shuffle the array and then loop over it.
+
 Another one is to get random element while looping.
 
 ## Use case
 
 Lets say that you want to render a word cloud.
+
 Lets say that you do not want to keep the same order each time.
+
 This is where you can use the `randomSplice` function.
 
 ## Installation
@@ -50,3 +54,7 @@ while (arr.length) {
 1.  This function modifies the original array. This is where its magic comes from
 2.  This function accepts only arrays
 3.  This function can be used in an ES6 environment
+
+## LICENSE
+
+MIT

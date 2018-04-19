@@ -12,7 +12,7 @@
 		"url": "git+https://github.com/scriptex/random-splice.git"
 	},
 	"keywords": ["Random", "Array", "Splice", "Loop"],
-	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (http://atanas.info)",
+	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/scriptex/random-splice/issues"
