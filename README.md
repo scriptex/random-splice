@@ -32,11 +32,7 @@ npm i random-splice
 
 or
 
-Just download this repository and link the files located in dist folder:
-
-```
-<script src="dist/index.min.js"></script>
-```
+Just download this repository and link the files located in dist folder.
 
 ## Usage
 
