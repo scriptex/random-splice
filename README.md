@@ -1,3 +1,11 @@
+[![GitHub stars](https://img.shields.io/github/stars/scriptex/random-splice.svg?style=social&label=Stars)](https://github.com/scriptex/random-splice)
+[![npm](https://img.shields.io/npm/dt/random-splice.svg)](https://www.npmjs.com/package/random-splice)
+[![npm](https://img.shields.io/npm/v/random-splice.svg)](https://www.npmjs.com/package/random-splice)
+[![GitHub issues](https://img.shields.io/github/issues/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice)
+[![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice)
+[![license](https://img.shields.io/github/license/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice)
+[![Github file size](https://img.shields.io/github/size/scriptex/random-splice/dist/index.min.js.svg)](https://github.com/scriptex/random-splice)
+
 # randomSplice
 
 Get random element from array when looping
