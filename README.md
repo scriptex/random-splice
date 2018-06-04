@@ -35,13 +35,13 @@ This is where you can use the `randomSplice` function.
 
 ## Installation
 
-```
+```console
 yarn add random-splice
 ```
 
 or
 
-```
+```console
 npm i random-splice
 ```
 
@@ -51,7 +51,7 @@ Just download this repository and link the files located in dist folder.
 
 ## Usage
 
-```
+```javascript
 const randomSplice = require('random-splice');
 const arr = ['Your', 'Awesome', 'Array'];
 
