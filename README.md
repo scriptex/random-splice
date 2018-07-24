@@ -1,5 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/scriptex/random-splice.svg?style=social&label=Stars)](https://github.com/scriptex/random-splice)
-[![GitHub forks](https://img.shields.io/github/forks/scriptex/random-splice.svg?style=social&label=Fork)](https://github.com/scriptex/random-splice/network#fork-destination-box)
 [![GitHub release](https://img.shields.io/github/release/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice/releases/latest)
 [![GitHub issues](https://img.shields.io/github/issues/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice/commits/master)
@@ -7,14 +5,10 @@
 [![Build Status](https://travis-ci.org/scriptex/random-splice.svg?branch=master)](https://travis-ci.org/scriptex/random-splice)
 [![npm](https://img.shields.io/npm/dt/random-splice.svg)](https://www.npmjs.com/package/random-splice)
 [![npm](https://img.shields.io/npm/v/random-splice.svg)](https://www.npmjs.com/package/random-splice)
-[![license](https://img.shields.io/github/license/scriptex/random-splice.svg)](https://github.com/scriptex/random-splice)
 [![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/random-splice/README.md)](https://github.com/scriptex/random-splice/)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/scriptex/random-splice/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/scriptex/random-splice/graphs/commit-activity)
 [![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/random-splice.svg)](https://greenkeeper.io/)
 [![dependencies Status](https://david-dm.org/scriptex/random-splice/status.svg)](https://david-dm.org/scriptex/webpack-mpa)
 [![devDependencies Status](https://david-dm.org/scriptex/random-splice/dev-status.svg)](https://david-dm.org/scriptex/random-splice?type=dev)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/scriptex/) 
 
 # randomSplice
 
