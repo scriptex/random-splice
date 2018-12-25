@@ -6,9 +6,6 @@
 [![npm](https://img.shields.io/npm/dt/random-splice.svg)](https://www.npmjs.com/package/random-splice)
 [![npm](https://img.shields.io/npm/v/random-splice.svg)](https://www.npmjs.com/package/random-splice)
 [![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/random-splice/README.md)](https://github.com/scriptex/random-splice/)
-[![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/random-splice.svg)](https://greenkeeper.io/)
-[![dependencies Status](https://david-dm.org/scriptex/random-splice/status.svg)](https://david-dm.org/scriptex/webpack-mpa)
-[![devDependencies Status](https://david-dm.org/scriptex/random-splice/dev-status.svg)](https://david-dm.org/scriptex/random-splice?type=dev)
 
 # randomSplice
 
