@@ -29,19 +29,25 @@ This is where you can use the `randomSplice` function.
 
 ## Installation
 
-```console
+```sh
 yarn add random-splice
 ```
 
 or
 
-```console
+```sh
 npm i random-splice
 ```
 
 or
 
-Just download this repository and link the files located in dist folder.
+just download this repository and link the files located in dist folder
+
+or link it from unpkg.com
+
+```html
+<script src="https://unpkg.com/random-splice"></script>
+```
 
 ## Usage
 
