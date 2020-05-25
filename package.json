@@ -41,7 +41,7 @@
 		"@babel/preset-env": "7.9.6",
 		"babel-loader": "8.1.0",
 		"babel-minify": "0.5.1",
-		"tape": "5.0.0"
+		"tape": "5.0.1"
 	},
 	"dependencies": {}
 }
