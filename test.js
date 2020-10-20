@@ -1,5 +1,6 @@
 const tape = require('tape');
-const randomSplice = require('./src');
+// @ts-ignore
+const { randomSplice } = require('./dist/random-splice');
 
 tape('should throw TypeError', t => {
 	t.throws(() => randomSplice(null));
