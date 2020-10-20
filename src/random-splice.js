@@ -1,4 +1,4 @@
-const randomSplice = arr => {
+export const randomSplice = arr => {
 	if (!Array.isArray(arr)) {
 		throw new TypeError('Parameter 1 should be of type Array');
 	}
@@ -13,5 +13,3 @@ const randomSplice = arr => {
 
 	return arr.splice(randomIndex, 1)[0];
 };
-
-module.exports = randomSplice;

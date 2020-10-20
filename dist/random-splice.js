@@ -1,17 +1,22 @@
 (function (global, factory) {
   if (typeof define === "function" && define.amd) {
-    define([], factory);
+    define(["exports"], factory);
   } else if (typeof exports !== "undefined") {
-    factory();
+    factory(exports);
   } else {
     var mod = {
       exports: {}
     };
-    factory();
-    global.index = mod.exports;
+    factory(mod.exports);
+    global.randomSplice = mod.exports;
   }
-})(this, function () {
+})(typeof globalThis !== "undefined" ? globalThis : typeof self !== "undefined" ? self : this, function (_exports) {
   "use strict";
+
+  Object.defineProperty(_exports, "__esModule", {
+    value: true
+  });
+  _exports.randomSplice = void 0;
 
   var randomSplice = function randomSplice(arr) {
     if (!Array.isArray(arr)) {
@@ -28,5 +33,5 @@
     return arr.splice(randomIndex, 1)[0];
   };
 
-  module.exports = randomSplice;
+  _exports.randomSplice = randomSplice;
 });
