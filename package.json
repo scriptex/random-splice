@@ -27,7 +27,7 @@
 	"homepage": "https://github.com/scriptex/random-splice#readme",
 	"devDependencies": {
 		"@babel/cli": "7.17.6",
-		"@babel/core": "7.17.7",
+		"@babel/core": "7.17.8",
 		"@babel/plugin-transform-modules-umd": "7.16.7",
 		"@babel/preset-env": "7.16.11",
 		"babel-loader": "8.2.3",
