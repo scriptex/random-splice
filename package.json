@@ -1,38 +1,36 @@
 {
 	"name": "random-splice",
-	"version": "1.1.0",
+	"version": "2.0.0",
 	"description": "Get random element from array when looping",
-	"main": "dist/random-splice.min.js",
-	"scripts": {
-		"dist": "babel src/random-splice.js --out-file dist/random-splice.js",
-		"minify": "babel src/random-splice.js --out-file dist/random-splice.min.js --presets minify,@babel/env",
-		"build": "npm run dist && npm run minify",
-		"test": "tape test.js"
+	"keywords": [
+		"Loop",
+		"Splice",
+		"Random",
+		"Random Splice",
+		"Array methods"
+	],
+	"homepage": "https://atanas.info/projects/random-splice.html",
+	"bugs": {
+		"url": "https://github.com/scriptex/random-splice/issues",
+		"email": "hi@atanas.info"
 	},
+	"license": "MIT",
+	"author": "Atanas Atanasov <hi@atanas.info> (https://atanas.info)",
+	"funding": "https://github.com/sponsors/scriptex",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/scriptex/random-splice.git"
+		"url": "github:scriptex/random-splice"
 	},
-	"keywords": [
-		"Random",
-		"Array",
-		"Splice",
-		"Loop"
-	],
-	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/scriptex/random-splice/issues"
+	"scripts": {
+		"test": "tape test.js",
+		"build": "rm -rf dist && tsc"
 	},
-	"homepage": "https://github.com/scriptex/random-splice#readme",
+	"dependencies": {},
 	"devDependencies": {
-		"@babel/cli": "7.18.10",
-		"@babel/core": "7.19.1",
-		"@babel/plugin-transform-modules-umd": "7.18.6",
-		"@babel/preset-env": "7.19.1",
-		"babel-loader": "8.2.5",
-		"babel-minify": "0.5.2",
-		"tape": "5.6.1"
-	},
-	"dependencies": {}
+		"tape": "5.6.1",
+		"tslib": "2.4.0",
+		"typescript": "4.8.3"
+	}
 }
