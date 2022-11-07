@@ -1,6 +1,6 @@
 {
 	"name": "random-splice",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "Get random element from array when looping",
 	"keywords": [
 		"Loop",
@@ -9,7 +9,7 @@
 		"Random Splice",
 		"Array methods"
 	],
-	"homepage": "https://atanas.info/projects/random-splice.html",
+	"homepage": "https://atanas.info/portfolio/open-source/random-splice",
 	"bugs": {
 		"url": "https://github.com/scriptex/random-splice/issues",
 		"email": "hi@atanas.info"
