@@ -29,7 +29,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"tape": "5.7.4",
+		"tape": "5.7.5",
 		"tslib": "2.6.2",
 		"typescript": "5.3.3"
 	}
